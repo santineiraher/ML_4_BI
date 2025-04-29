@@ -21,7 +21,7 @@ Aquí encontrarás los materiales, presentaciones, códigos y talleres correspon
 - Diferencias y ramas del ML.
 - Tipos de problemas.
 - Bases matemáticas: Álgebra Lineal, Probabilidad, Optimización.
-- **[Acceder a Material de la Clase 1](#)**
+- **[Acceder a Material de la Clase 1](https://github.com/santineiraher/ML_4_BI/tree/main/Clase%201)**
 
 ### 🔹 Clase 2 - Preprocesamiento, Estructuración y Visualización
 - Tipos de datos.
