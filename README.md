@@ -9,7 +9,7 @@ Aquí encontrarás los materiales, presentaciones, códigos y talleres correspon
 
 - **Modalidad:** Martes y Jueves de 6:00 PM a 9:00 PM.
 - **Duración:** 9 sesiones.
-- **Fechas:** 16 de abril al 14 de mayo de 2023.
+- **Fechas:** 29 de abril al 29 de mayo de 2024.
 - **Modalidad:** Virtual (grabaciones disponibles).
 
 ---
