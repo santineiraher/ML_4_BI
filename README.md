@@ -27,7 +27,7 @@ Aquí encontrarás los materiales, presentaciones, códigos y talleres correspon
 - Tipos de datos.
 - Preprocesamiento de datos.
 - Visualización interactiva con Plotly.
-- **[Acceder a Material de la Clase 2](#)**
+- **[Acceder a Material de la Clase 2](https://github.com/santineiraher/ML_4_BI/tree/main/Clase%202)**
 
 ### 🔹 Clase 3 - Modelos de Regresión
 - Aprendizaje Supervisado.
