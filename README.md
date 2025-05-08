@@ -34,7 +34,7 @@ Aquí encontrarás los materiales, presentaciones, códigos y talleres correspon
 - Regresión Lineal, MCO, MV.
 - Overfitting vs Underfitting.
 - Regularización.
-- **[Acceder a Material de la Clase 3](#)**
+- **[Acceder a Material de la Clase 3](https://github.com/santineiraher/ML_4_BI/tree/main/Clase%203)**
 
 ### 🔹 Clase 4 - Clasificación y Métricas
 - KNN, SVM, Regresión Logística.
