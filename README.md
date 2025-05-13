@@ -40,7 +40,7 @@ Aquí encontrarás los materiales, presentaciones, códigos y talleres correspon
 - KNN, SVM, Regresión Logística.
 - Métricas de clasificación y regresión.
 - Evaluación dentro y fuera de muestra.
-- **[Acceder a Material de la Clase 4](#)**
+- **[Acceder a Material de la Clase 4](https://github.com/santineiraher/ML_4_BI/tree/main/Clase%204)**
 
 ### 🔹 Clase 5 - CART y Ensemble Learning
 - Árboles de decisión.
